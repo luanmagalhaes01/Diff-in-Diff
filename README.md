@@ -5,6 +5,5 @@ A análise foi estruturada com base no método de **Diferenças em Diferenças**
 
 **Estatísticas Utilizadas**
 - Regressão Linear (OLS)
-- Técnica de Diferenças em Diferenças (DiD)
-- Testes de significância estatística para os coeficientes
+- Técnica de Diferenças em Diferenças (DD)
 
