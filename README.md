@@ -7,3 +7,6 @@ A análise foi estruturada com base no método de **Diferenças em Diferenças**
 - Regressão Linear (OLS)
 - Técnica de Diferenças em Diferenças (DD)
 
+Você pode conferir a apresentação detalhada no [Jupyter Notebook aqui](https://github.com/luanmagalhaes01/Diff-in-Diff/blob/main/diff-in-diff.ipynb).
+
+
