@@ -4,8 +4,9 @@ Neste estudo, utilizamos dados fictícios para simular o comportamento de client
 A análise foi estruturada com base no método de **Diferenças em Diferenças**, permitindo obter uma estimativa mais precisa do impacto da campanha sobre os pedidos e oferecendo insights sobre a efetividade dessa campanha de marketing.
 
 **Estatísticas Utilizadas**
-- Regressão Linear (OLS)
-- Técnica de Diferenças em Diferenças (DD)
+- Diferenças em Diferenças (DD)
+- Regressão linear (OLS)
+- Teste t
 
 🚀 Você pode conferir a apresentação detalhada no [Jupyter Notebook aqui](https://github.com/luanmagalhaes01/Diff-in-Diff/blob/main/diff-in-diff.ipynb).
 
